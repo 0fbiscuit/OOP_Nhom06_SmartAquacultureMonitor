@@ -25,7 +25,7 @@ public class MainWindow extends BaseWindow {
     private SimulationEngine engine;
 
     public MainWindow() {
-        super("Nhóm 09 - Giám sát Ao nuôi tôm IoT", 1200, 800);
+        super("Nhóm 06 - Giám sát Ao nuôi tôm IoT", 1200, 800);
     }
 
     @Override
